@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.mockito:mockito-core:2.7.22:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mockito/mockito-core/jars/mockito-core-2.7.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.mockito/mockito-core/srcs/mockito-core-2.7.22-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
